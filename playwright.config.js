@@ -30,7 +30,7 @@ export default defineConfig({
     // launchOptions: {
     //   slowMo: 1000, // Slow down operations by 1 second for debugging
     // },
-    headless: false,
+    // headless: false,
     /* Base URL to use in actions like `await page.goto('/')`. */
     baseURL: 'https://demoqa.com',
 
